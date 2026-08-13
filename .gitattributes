@@ -1,0 +1,40 @@
+* text=auto
+
+# Unity text serialization files
+*.meta text
+*.unity text
+*.prefab text
+*.asset text
+*.mat text
+*.anim text
+*.controller text
+*.overrideController text
+*.physicMaterial text
+*.physicsMaterial2D text
+*.playable text
+*.mask text
+*.brush text
+*.flare text
+*.fontsettings text
+*.guiskin text
+*.giparams text
+*.renderTexture text
+*.spriteatlas text
+*.terrainlayer text
+*.mixer text
+
+# Common binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.tga binary
+*.psd binary
+*.fbx binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.mp4 binary
+*.mov binary
+*.ttf binary
+*.otf binary
